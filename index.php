@@ -174,30 +174,135 @@ $conn = Connect();
         </section>
 
     </div>
-
     <div class="bgimg-2">
         <div class="caption">
             <span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;"></span>
         </div>
     </div>
 
-    <div style="position:relative;">
-        <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
-            <p>Click here for the latest deals on your bookings</p>
+    <hr>
+
+    <div class="container">
+    <div class="row">
+        <h2 style="text-align: center">Our Agents</h2>
+        <h4 style="text-align: center">Our team of agents are ready to help you reach your car renting goals by making your needs our number one priority</h4>
+        <div class="col-lg-3 col-sm-6">
+
+            <div class="card hovercard">
+                <div class="cardheader">
+
+                </div>
+                <div class="avatar">
+                    <img alt="" src="img/agent1.jpg">
+                </div>
+                <div class="info">
+                    <div class="title">
+                        Carolyn McGill
+                    </div>
+                    <div class="desc">Support Manager</div>
+                </div>
+                <div class="bottom">
+                    <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i>&nbsp;&nbsp;&nbsp;</a>
+                    <a href="https://twitter.com" target="_blank"><i class="fa fa-twitter"></i>&nbsp;&nbsp;&nbsp;</a>
+                    <a href="https://www.instagram.com/" target="_blank"><i class="fa fa-instagram"></i>&nbsp;&nbsp;&nbsp;</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+
+            <div class="card hovercard">
+                <div class="cardheader">
+
+                </div>
+                <div class="avatar">
+                    <img alt="" src="img/agent2.jpg">
+                </div>
+                <div class="info">
+                    <div class="title">
+                        Martin Smith
+                    </div>
+                    <div class="desc">Chief of Engineer</div>
+                </div>
+                <div class="bottom">
+                    <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i>&nbsp;&nbsp;&nbsp;</a>
+                    <a href="https://twitter.com" target="_blank"><i class="fa fa-twitter"></i>&nbsp;&nbsp;&nbsp;</a>
+                    <a href="https://www.instagram.com/" target="_blank"><i class="fa fa-instagram"></i>&nbsp;&nbsp;&nbsp;</a>
+                </div>
+            </div>
+
+        </div>
+        <div class="col-lg-3 col-sm-6">
+
+            <div class="card hovercard">
+                <div class="cardheader">
+
+                </div>
+                <div class="avatar">
+                    <img alt="" src="img/agent3.jpg">
+                </div>
+                <div class="info">
+                    <div class="title">
+                        Michelle Nelson
+                    </div>
+                    <div class="desc">Manager</div>
+                </div>
+                <div class="bottom">
+                    <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i>&nbsp;&nbsp;&nbsp;</a>
+                    <a href="https://twitter.com" target="_blank"><i class="fa fa-twitter"></i>&nbsp;&nbsp;&nbsp;</a>
+                    <a href="https://www.instagram.com/" target="_blank"><i class="fa fa-instagram"></i>&nbsp;&nbsp;&nbsp;</a>
+                </div>
+            </div>
+
+        </div>
+        <div class="col-lg-3 col-sm-6">
+
+            <div class="card hovercard">
+                <div class="cardheader">
+
+                </div>
+                <div class="avatar">
+                    <img alt="" src="img/agent4.jpg">
+                </div>
+                <div class="info">
+                    <div class="title">
+                        Brandon Miller 
+                    </div>
+                    <div class="desc">Store Manager</div>
+                </div>
+                <div class="bottom">
+                    <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook">&nbsp;&nbsp;&nbsp;</i></a>
+                    <a href="https://twitter.com" target="_blank"><i class="fa fa-twitter">&nbsp;&nbsp;&nbsp;</i></a>
+                    <a href="https://www.instagram.com/" target="_blank"><i class="fa fa-instagram">&nbsp;&nbsp;&nbsp;</i></a>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+    
+    <div class="bgimg-2">
+        <div class="caption">
+            <span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;"></span>
         </div>
     </div>
-
+    
     <footer class="site-footer">
         <div class="container">
-            <hr>
             <div class="row">
-                <div class="col-sm-6">
+
+                <div class="col-sm-4">
                     <h5>© 2020 CarX Rental</h5>
                 </div>
-                <div class="col-sm-6 social-icons">
-                    <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                    <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                    <a href="#" target="_blank"><i class="fa fa-instagram"></i></a>
+
+                <div class="col-sm-4">
+                    <h5><a href="https://www.youtube.com/">Youtube Link</a></h5>
+                    <h5><a href="faq/index.php">Frequently Asked Questions</a></h5>
+                </div>
+                <div class="col-sm-4 social-icons">
+                    <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>
+                    <a href="https://twitter.com" target="_blank"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.instagram.com/" target="_blank"><i class="fa fa-instagram"></i></a>
                     <a href="#" target="_blank"><i class="fa fa-google-plus"></i></a>
                 </div>
             </div>

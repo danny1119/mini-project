@@ -188,12 +188,12 @@
                         </div>
                         <div class="row">
                             <div class="form-group col-xs-4">
-                                <button class="btn btn-primary" type="submit">Submit</button>
+                                <button class="btn btn-primary" type="submit"style="border-radius: 0%; width:62px; height:32px;">Submit</button>
                             </div>
 
                         </div>
                         <label style="margin-left: 5px;">or</label> <br>
-                        <label style="margin-left: 5px;"><a href="customerlogin.html">Have an account? Login.</a></label>
+                        <label style="margin-left: 5px;"><a href="customerlogin.php">Have an account? Login.</a></label>
 
                     </form>
 
@@ -205,14 +205,25 @@
     </div>
 </body>
 <footer class="site-footer">
-    <div class="container">
-        <hr>
-        <div class="row">
-            <div class="col-sm-6">
-                <h5>© 2020 CarX Rental</h5>
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-4">
+                    <h5>© 2020 CarX Rental</h5>
+                </div>
+
+                <div class="col-sm-4">
+                    <h5><a href="https://www.youtube.com/">Youtube Link</a></h5>
+                    <h5><a href="faq/index.php">Frequently Asked Questions</a></h5>
+                </div>
+                <div class="col-sm-4 social-icons">
+                    <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>
+                    <a href="https://twitter.com" target="_blank"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.instagram.com/" target="_blank"><i class="fa fa-instagram"></i></a>
+                    <a href="#" target="_blank"><i class="fa fa-google-plus"></i></a>
+                </div>
             </div>
         </div>
-    </div>
-</footer>
+    </footer>
 
 </html>
