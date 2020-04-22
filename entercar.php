@@ -205,14 +205,5 @@ if (mysqli_num_rows($result) > 0) {
         </div>
     </div>
 </body>
-<footer class="site-footer">
-        <div class="container">
-            <hr>
-            <div class="row">
-                <div class="col-sm-6">
-                    <h5>© 2020 CarX Rental</h5>
-                </div>
-            </div>
-        </div>
-    </footer>
+
 </html>

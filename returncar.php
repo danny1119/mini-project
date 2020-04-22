@@ -179,7 +179,7 @@ function dateDiff($start, $end) {
           <?php } ?>
           <input type="hidden" name="hid_fare" value="<?php echo $fare; ?>">
 
-           <input type="submit" name="submit" value="submit" class="btn btn-success pull-right">
+           <input type="submit" name="submit" value="submit" class="btn btn-success pull-right"style="border-radius: 0%; width:65px; height:32px;">
         </form>
       </div>
     </div>
@@ -187,14 +187,5 @@ function dateDiff($start, $end) {
     </div>
 
 </body>
-<footer class="site-footer">
-        <div class="container">
-            <hr>
-            <div class="row">
-                <div class="col-sm-6">
-                    <h5>© 2020 CarX Rental</h5>
-                </div>
-            </div>
-        </div>
-    </footer>
+
 </html>

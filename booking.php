@@ -243,24 +243,14 @@ if(!isset($_SESSION['login_customer'])){
                 <input type="hidden" name="hidden_carid" value="<?php echo $car_id; ?>">
 
 
-           <input type="submit"name="submit" value="Book Now" class="btn btn-success pull-right">
+           <input type="submit"name="submit" value="Book Now" class="btn btn-success pull-right" style="border-radius: 40%; width:87px; height:32px;">
         </form>
 
       </div>
       <div class="col-md-12" style="float: none; margin: 0 auto; text-align: center;">
-            <h6><strong>Kindly Note:</strong> You will be charged <span class="text-danger">$200/-</span> for each day after the due date.</h6>
+            <h6><strong>Kindly Note:</strong> You will be charged <span class="text-danger">$200</span> for each day after the due date.</h6>
         </div>
     </div>
 
 </body>
-<footer class="site-footer">
-        <div class="container">
-            <hr>
-            <div class="row">
-                <div class="col-sm-6">
-                    <h5>© 2020 CarX Rental</h5>
-                </div>
-            </div>
-        </div>
-    </footer>
 </html>
