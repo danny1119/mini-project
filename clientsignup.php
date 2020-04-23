@@ -198,7 +198,7 @@
 
                         </div>
                         <label style="margin-left: 5px;">or</label> <br>
-                        <label style="margin-left: 5px;"><a href="clientlogin.html">Have an account? Login.</a></label>
+                        <label style="margin-left: 5px;"><a href="clientlogin.php">Have an account? Login.</a></label>
 
                     </form>
 
