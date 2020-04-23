@@ -102,7 +102,7 @@
         <!-- /.container -->
     </nav>
     <div class="container">
-        <div class="jumbotron">
+        <div style="background:transparent !important; border:none; margin-top: 20px; color: #18181A" class="jumbotron">
             <h1>Welcome to CarX Rental</h1>
             <br>
             <p>Get started by creating your account</p>

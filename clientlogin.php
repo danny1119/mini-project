@@ -118,7 +118,7 @@ if(isset($_SESSION['login_client'])){
         <!-- /.container -->
     </nav>
         <div class="container">
-            <div class="jumbotron">
+            <div style="background:transparent !important; border:none; margin-top: 20px; color: #18181A" class="jumbotron ">
                 <h1>Welcome to CarX Rental </span>
                 </h1>
                 <br>

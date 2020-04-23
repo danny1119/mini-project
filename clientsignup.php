@@ -104,7 +104,7 @@
         <!-- /.container -->
     </nav>
     <div class="container">
-        <div class="jumbotron">
+        <div style="background:transparent !important; border:none; margin-top: 20px; color: #18181A" class="jumbotron">
             <h1>Welcome to CarX Rental</h1>
             <br>
             <p>Get started by creating your account</p>
@@ -193,7 +193,7 @@
 
                         <div class="row">
                             <div class="form-group col-xs-4">
-                                <button class="btn btn-primary" type="submit">Submit</button>
+                                <button class="btn btn-primary" type="submit" style="border-radius: 0%; width:62px; height:32px;">Submit</button>
                             </div>
 
                         </div>
