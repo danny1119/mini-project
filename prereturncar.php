@@ -125,7 +125,7 @@ $conn = Connect();
     if (mysqli_num_rows($result1) > 0) {
 ?>
 <div class="container">
-      <div class="jumbotron">
+      <div style="background:transparent !important; border:none; margin-top: 20px; color: #18181A" class="jumbotron">
         <h1>Return your cars here</h1>
         <p> Hope you enjoyed our service </p>
       </div>
